@@ -12,7 +12,7 @@ Hosted on GitHub Pages (free). Intended for App Store / Google Play listing URLs
 
 Locales: zh-TW, zh-CN, en, ja, ko (client-side language switcher).
 
-Support placeholder: `support@retro.app`  
+Support: `retro.decision@gmail.com`  
 Governing law: TBD
 
 Source copy: internal report `retro-store-compliance-entry-v1.md`.
