@@ -7,6 +7,7 @@ Hosted on GitHub Pages (free). Intended for App Store / Google Play listing URLs
 | Page | Path |
 |------|------|
 | Home | `/` |
+| Download (store QR landing) | `/download.html` — https://retro-decision.github.io/retro-legal/download.html |
 | Privacy | `/privacy.html` |
 | Terms | `/terms.html` |
 

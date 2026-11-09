@@ -125,3 +125,21 @@ footer {
 footer a { color: var(--muted); }
 [data-lang] { display: none; }
 [data-lang].active { display: block; }
+.store-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 0.25rem 0 1.25rem;
+}
+.store-actions[hidden] { display: none; }
+.store-btn {
+  display: inline-block;
+  padding: 0.65rem 1.1rem;
+  background: var(--accent-soft);
+  border: 1px solid var(--accent);
+  border-radius: 10px;
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: none;
+}
+.store-btn:hover { background: var(--card); }
