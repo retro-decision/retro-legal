@@ -1,6 +1,6 @@
 # Retro Legal
 
-Public short-form **Privacy Policy** and **Terms of Service** for the Retro app (`com.tkhkenny.retro`).
+Public short-form **Privacy Policy** and **Terms of Service** for the Retro app (`com.retrolab.retro`).
 
 Hosted on GitHub Pages (free). Intended for App Store / Google Play listing URLs and in-app links.
 
